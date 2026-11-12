@@ -69,8 +69,8 @@ flowchart TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/rosteriq.git
-cd rosteriq
+git clone https://github.com/itsNabilSk/RosterIQ---Roster-Management-System-.git
+cd RosterIQ---Roster-Management-System-
 
 # Install server dependencies
 cd server
@@ -127,14 +127,14 @@ cd server
 npm test
 ```
 
-Runs all 34 automated unit and integration tests across engine modules, schemas, calendar rules, validator, backup suggester, demo scenarios, and REST APIs.
+Runs all 58 automated unit and integration tests across engine modules, schemas, calendar rules, validator, backup suggester, plan comparator, demo scenarios, and REST APIs.
 
 ---
 
 ## Deployed URLs
 
-- **Frontend (Vercel)**: `https://rosteriq.vercel.app` *(or your deployment URL)*
-- **Backend API (Render)**: `https://rosteriq-api.onrender.com/api/v1`
+- **Frontend (Vercel)**: `https://roster-iq-roster-management-system.vercel.app`
+- **Backend API (Render)**: `https://rosteriq-roster-management-system-1.onrender.com/api/v1`
 - **Database**: MongoDB Atlas M0 Cluster
 
 ---
